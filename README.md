@@ -4,6 +4,7 @@ Repositório de anotações de estudo — criado e mantido por um estudante auto
 
 Todo o conteúdo aqui foi aprendido através de recursos gratuitos:
 FreeCodeCamp, YouTube, Cisco NetAcad e outras plataformas.
+Complementado também com leitura de livros técnicos das áreas estudadas.
 
 ---
 
@@ -13,8 +14,8 @@ FreeCodeCamp, YouTube, Cisco NetAcad e outras plataformas.
 |---|---|
 | Engenharia de Software | C, Python, JavaScript |
 | Desenvolvimento Web | HTML, CSS, JavaScript |
-| Cibersegurança | Linux, Bash, redes, ferramentas |
-| Infraestrutura de Redes | TCP/IP, OSI, protocolos |
+| Cibersegurança | Linux, Bash, redes, ferramentas ofensivas |
+| Computer Networking | Fundamentos, protocolos, endereçamento, routing, switching, segurança e administração de redes |
 
 ---
 
@@ -38,4 +39,7 @@ study-notes/
 Este repositório é acompanhado por outro com projetos práticos:
 → [Mr-Keyer](https://github.com/Mr-Keyer)
 
---- 
+---
+
+> Conhecimento sem prática é incompleto.
+> Aqui estão as bases — nos projetos está a aplicação.
