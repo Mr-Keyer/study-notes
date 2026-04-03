@@ -1,7 +1,41 @@
-# study-notes
+# 📚 Study Notes
 
-Oi!, Eu sou um estudante autodidata e esse repositório foi crido para compartilhar as minhas notas de estudo na qual foram e são adquiridas com aulas online e gratuitas pelo YouTube, corsus pela freecodecamp e também pela cisco e outras plataformas de certificação gratuita , actualmente estou estudando programação para engenharia de software, cybercigurança e também estou estudando infrastrutura de redes de computador, estou estudando certas tecnologias e pretendo compartilhar mais anotações  nesse repositório, actualmente estou estudando programacao, desenvolvimento web, cybercigurança , onfrastutura de rede de computador e engenharia de software, As linguagens e tecnologias que estou estudando no momento são:
+Repositório de anotações de estudo — criado e mantido por um estudante autodidata.
 
-C, JavaScript, Python, HTML, css,bash
+Todo o conteúdo aqui foi aprendido através de recursos gratuitos:
+FreeCodeCamp, YouTube, Cisco NetAcad e outras plataformas.
 
-e a minha rotina de estudo esta organizda para que possa estudar tudo direito, sem sobrecarregar a minha mente e ter um conhecimento robusto e sólido  em todas as tecnologias e áreas de actuação, e esse repositório é acompanhado pelo outro repositório na qual compartilharem projetos e conhecimentos praticos  relacionados as áreas de actuação e tecnologias por mim estudadas, 
+---
+
+## 🎯 O que estou estudando
+
+| Área | Tecnologias |
+|---|---|
+| Engenharia de Software | C, Python, JavaScript |
+| Desenvolvimento Web | HTML, CSS, JavaScript |
+| Cibersegurança | Linux, Bash, redes, ferramentas |
+| Infraestrutura de Redes | TCP/IP, OSI, protocolos |
+
+---
+
+## 📁 Estrutura
+```
+study-notes/
+├── c/
+├── python/
+├── javascript/
+├── web/
+├── bash/
+├── linux/
+├── cybersecurity/
+└── networking/
+```
+
+---
+
+## 🔗 Repositórios relacionados
+
+Este repositório é acompanhado por outro com projetos práticos:
+→ [Mr-Keyer](https://github.com/Mr-Keyer)
+
+--- 
